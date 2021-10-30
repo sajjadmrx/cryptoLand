@@ -1,0 +1,29 @@
+{
+  "name": "cryptoland",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sajjadmrx/cryptoLand.git"
+  },
+  "keywords": [
+    "crypto",
+    "bitcoin",
+    "dogecoin"
+  ],
+  "author": "sajjadmrx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sajjadmrx/cryptoLand/issues"
+  },
+  "homepage": "https://github.com/sajjadmrx/cryptoLand#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "cryptoland": "^1.0.0"
+  }
+}
